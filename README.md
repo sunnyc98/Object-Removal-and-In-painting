@@ -1,1 +1,1 @@
-# Object-Removal-and-In-painting-with-ResNet
+# Object-Removal-and-In-painting
